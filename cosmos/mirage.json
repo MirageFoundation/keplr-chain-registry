@@ -2,8 +2,8 @@
   "chainId": "mirage-1",
   "chainName": "Mirage",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/mirage/chain.png",
-  "rpc": "https://mirage.talk/rpc",
-  "rest": "https://mirage.talk/lcd",
+  "rpc": "https://mirage.talk/chain/rpc",
+  "rest": "https://mirage.talk/chain/rest",
   "nodeProvider": {
     "name": "Mirage Foundation",
     "email": "support@mirage.vote",
